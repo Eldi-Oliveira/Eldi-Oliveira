@@ -7,7 +7,7 @@ Me chamo Welder Ferreira Oliveira, tenho 27 anos e sou natural de São Paulo. So
 <p align="left">
    
   </a> 
-    <a href="https://github.com/Eldi-Oliveira?tab=repositories&sort=stargazers">
+    <a href="https://www.linkedin.com/in/welder-oliveira-6643561b2/">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
