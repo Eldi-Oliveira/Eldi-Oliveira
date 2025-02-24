@@ -14,9 +14,8 @@ Me chamo Welder Ferreira Oliveira, tenho 27 anos e sou natural de São Paulo. So
             title="LinkedIn"
             width="50px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-          
-   />
-</a>
+      />   
+   </a>
 </p>
 
 ---
