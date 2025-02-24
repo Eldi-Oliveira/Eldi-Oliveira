@@ -2,7 +2,17 @@
 
 **`Analista de Dados `**
 
-Me chamo Welder Ferreira Oliveira, tenho 27 anos e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas pela UNICID. Atualmente estou fazendo transição de carreira para Análise de dados.
+Natural de São Paulo, 27 anos, recém-formado em Análise e Desenvolvimento de Sistemas pela UNICID (Universidade Cidade de São Paulo). Atualmente, estou em transição de carreira para a área de Análise de Dados, onde venho me especializando em ferramentas essenciais como:
+
+Excel (avançado)
+
+Power BI (criação de dashboards e visualizações)
+
+SQL (consultas e manipulação de bancos de dados)
+
+Python (análise de dados e automação)
+
+Com uma base sólida em tecnologia e desenvolvimento de sistemas, estou focado em transformar dados em insights estratégicos, contribuindo para a tomada de decisões assertivas e o crescimento das organizações.
 
 <p align="left">
    
