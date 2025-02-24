@@ -31,7 +31,7 @@ Me chamo Welder Ferreira Oliveira, tenho 27 anos e sou natural de São Paulo. So
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -40,7 +40,7 @@ Me chamo Welder Ferreira Oliveira, tenho 27 anos e sou natural de São Paulo. So
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
@@ -49,12 +49,20 @@ Me chamo Welder Ferreira Oliveira, tenho 27 anos e sou natural de São Paulo. So
     align="left" 
     alt="Pandas" 
     title="Pandas"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
    />
-       
-/>
+
+<img 
+    align="left" 
+    alt="NumPY" 
+    title="Numpy"
+    width="40px" 
+    style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+   />
+          
 
 <br/>
 <br/>
