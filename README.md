@@ -9,18 +9,12 @@ Me chamo Welder Ferreira Oliveira, tenho 27 anos e sou natural de São Paulo. So
   </a> 
     <a href="https://github.com/Eldi-Oliveira?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Eldi-Oliveira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Eldi-Oliveira?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Eldi-Oliveira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+            alt="LinkedIn" 
+            title="LinkedIn" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+          
+   />
+</a>
 </p>
 
 ---
